@@ -1,5 +1,5 @@
 def print_jose():
-  text = " Jose Garia va a tener exito ya que practica bastante"
+  text = " This is an Exmaple "
 
   print(text)
   print(text)
