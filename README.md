@@ -1,1 +1,1 @@
-This is jsut an example 
+This is just an example 
